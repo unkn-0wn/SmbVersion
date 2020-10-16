@@ -1,2 +1,2 @@
 # SmbVersion
-Find Smb Versions
+Simple python script to find Linux Smb/samba version
